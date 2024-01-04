@@ -1,0 +1,6 @@
+@Dungeons___Dragons_HostAddress = http://localhost:5184
+
+GET {{Dungeons___Dragons_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
